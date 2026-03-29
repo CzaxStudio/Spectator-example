@@ -1,3 +1,3 @@
-*.str linguist-language=Fortress
+*.str linguist-language=Spectator
 *.str linguist-detectable=true
 *.str linguist-vendored=false
